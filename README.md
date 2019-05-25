@@ -3,6 +3,7 @@ some handy text utilities for finding the match case of a string in a document a
 
 The code currently searches a paragraph for terms from a list of 22 terms .
 The code also contains some handy functions for string manipulations
+
 1)make_weird :
 makes the input wEirD , i.e , randomly chages the case of the characters or drops characters from random positions
 Ex :
