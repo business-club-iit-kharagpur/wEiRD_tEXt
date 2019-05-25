@@ -1,5 +1,5 @@
 # wEiRD_tEXt
-some handy text utilities for finding the match case of a string in a document and yes soUnDiNg CrEEpy oN tHe wEb
+### some handy text utilities for finding the match case of a string in a document and yes soUnDiNg CrEEpy oN tHe wEb
 
 The code currently searches a paragraph for terms from a list of 22 terms .
 The code also contains some handy functions for string manipulations
